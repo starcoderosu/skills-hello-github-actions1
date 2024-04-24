@@ -22,7 +22,7 @@ Merge your changes so the action will be a part of the `main` branch.
 
 <footer>
 
----
+--- :) 
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
